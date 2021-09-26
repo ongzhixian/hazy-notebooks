@@ -1,0 +1,4 @@
+# -e .
+requests
+msal
+ipykernel
