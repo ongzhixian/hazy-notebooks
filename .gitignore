@@ -132,3 +132,4 @@ dmypy.json
 ako.ps1
 ako
 **/*-secrets.json
+apps/msal/*.json
